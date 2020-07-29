@@ -2,7 +2,9 @@
 # Train
 ![Image text](https://github.com/futureisatyourhand/Pytorch-BaseClassification-Inception/blob/master/inceptionv1.png)
 
-batch:32 224*224
+batch:32 
+
+224*224
 
 classes_20.pth acc:0.7805
 
@@ -14,7 +16,9 @@ classes_40.pth acc:0.8285
 
 classes_60.pth acc:0.8211
 
-batch:64 224*224
+batch:64
+
+224*224
 
 classes_20.pth acc:0.7563
 
