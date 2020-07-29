@@ -29,3 +29,15 @@ classes_0.pth acc:0.5175
 classes_40.pth acc:0.8176
 
 classes_60.pth acc:0.8670
+
+# InceptionV2
+![Image text](https://github.com/futureisatyourhand/Pytorch-BaseClassification-Inception/blob/master/inceptionv2.png)
+classes_20.pth acc:0.8542
+
+classes_80.pth acc:0.8616
+
+classes_0.pth acc:0.7276
+
+classes_40.pth acc:0.8616
+
+classes_60.pth acc:0.8631
